@@ -3,9 +3,10 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
-      <excludeFolder url="file://$MODULE_DIR$/MUNDO 3 PYTHON(DICIONARIOS)/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/curso_em_video/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/curso_em_video/MUNDO 3 PYTHON(DICIONARIOS)/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.14 (curso_em_video)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.14 (MUNDO 3 PYTHON(DICIONARIOS)) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
